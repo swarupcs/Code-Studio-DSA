@@ -67,7 +67,7 @@ class Solution {
                 list.add(ans);
             }
             return;
-        }
+        }     
 
         char ch = str.charAt(0);
         PrintSubSeq(str.substring(1), ans, list);
