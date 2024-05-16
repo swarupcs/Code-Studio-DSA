@@ -1,12 +1,24 @@
-# Tree Traversals
+# Implement Upper Bound
+
+
 
 ### Problem statement
 ```
 
 
 ```
+### Note:
+```
 
-## Java
+```
+
+### Example1
+```
+
+```
+
+## Java Solution
+### Approach 1 
 ```
 
 ```
